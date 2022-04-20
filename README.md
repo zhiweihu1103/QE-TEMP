@@ -1,1 +1,3 @@
 # TEMP: Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs
+#### This repo provides the source code & data of our paper: TEMP: Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs (IJCAI 2022).
+Coming soon...
