@@ -62,5 +62,24 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u ../main.py --cuda --do_train --do_valid -
   > $LOG_PATH 2>&1 &
 ```
 * Other running scripts can be seen in ./scripts.
+## Citation
+If you find this code useful, please consider citing the following paper.
+```
+@article{DBLP:journals/corr/abs-2205-00782,
+  author    = {Zhiwei Hu and
+               V{\'{\i}}ctor Guti{\'{e}}rrez{-}Basulto and
+               Zhiliang Xiang and
+               Xiaoli Li and
+               Ru Li and
+               Jeff Z. Pan},
+  title     = {Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs},
+  journal   = {CoRR},
+  volume    = {abs/2205.00782},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2205.00782},
+  doi       = {10.48550/arXiv.2205.00782},
+  eprinttype = {arXiv},
+  eprint    = {2205.00782},
+}
 ## Acknowledgement
 We refer to the code of [KGReasoning](https://hub.fastgit.xyz/snap-stanford/KGReasoning). Thanks for their contributions.
