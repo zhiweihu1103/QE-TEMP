@@ -12,6 +12,11 @@
 * It should be noted that we only provide the data provided by the BetaE paper (the corresponding dataset in Table 7 of the paper). For the dataset corresponding to Q2B (the corresponding dataset in Table 1 of the paper), you can download it from [here](http://snap.stanford.edu/betae/KG_data.zip).
 * You need to move *id2type.pkl*, *type2id.pkl*, *entity_type.npy* and *relation_type.npy* in the corresponding BetaE's dataset to the corresponding Q2B's dataset.
 ### Models
-- [x] ReadMe
+- [x] [GQE](https://arxiv.org/abs/1806.01445)
+- [x] [Query2Box](https://arxiv.org/abs/1806.01445)
+- [x] [BetaE](https://arxiv.org/abs/2010.11465)
+- [x] [LogicE](https://arxiv.org/pdf/2103.00418.pdf)
+- [x] [ConE](https://proceedings.neurips.cc/paper/2021/file/a0160709701140704575d499c997b6ca-Paper.pdf)
+* We added the TEMP module to the above five models, but it has no effect on the ConE model (there is no comparison model in our paper), we will solve this problem in the next step.
 ## Acknowledgement
 We refer to the code of [KGReasoning](https://hub.fastgit.xyz/snap-stanford/KGReasoning). Thanks for their contributions.
