@@ -16,8 +16,7 @@
 - [x] [Query2Box](https://arxiv.org/abs/1806.01445)
 - [x] [BetaE](https://arxiv.org/abs/2010.11465)
 - [x] [LogicE](https://arxiv.org/pdf/2103.00418.pdf)
-- [x] [ConE](https://proceedings.neurips.cc/paper/2021/file/a0160709701140704575d499c997b6ca-Paper.pdf)
-* We added the TEMP module to the above five models, but it has no effect on the ConE model (there is no comparison model in our paper), we will solve this problem in the next step.
+* We added the TEMP module to the above four models.
 ### Training Model
 * Take the GQE model in the FB15k-237 dataset as an example:
 #### Generalization
