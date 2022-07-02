@@ -11,3 +11,6 @@
 * Create the root directory ./data and put the datasets in.
 * It should be noted that we only provide the data provided by the BetaE paper (the corresponding dataset in Table 7 of the paper). For the dataset corresponding to Q2B (the corresponding dataset in Table 1 of the paper), you can download it from [here](http://snap.stanford.edu/betae/KG_data.zip).
 * You need to move *id2type.pkl*, *type2id.pkl*, *entity_type.npy* and *relation_type.npy* in the corresponding BetaE's dataset to the corresponding Q2B's dataset.
+### Models
+## Acknowledgement
+We refer to the code of [KGReasoning](https://hub.fastgit.xyz/snap-stanford/KGReasoning). Thanks for their contributions.
