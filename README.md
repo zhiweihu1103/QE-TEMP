@@ -75,6 +75,7 @@ If you find this code useful, please consider citing the following paper.
   doi       = {10.48550/arXiv.2205.00782},
   eprint    = {2205.00782},
 }
+```
 
 ## Acknowledgement
 We refer to the code of [KGReasoning](https://hub.fastgit.xyz/snap-stanford/KGReasoning). Thanks for their contributions.
